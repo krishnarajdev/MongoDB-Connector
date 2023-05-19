@@ -13,7 +13,8 @@ To effectively test your CRUD operations using Microflows, utilize the Example f
 •	MongodB JAR file version 3.10.2
 
 
-![image](https://user-images.githubusercontent.com/39770908/222744107-abda45ef-42d0-4001-b0fd-00a09ab30dea.png)
 
 
 
+
+![MongoDB Connector FolderStructure](https://github.com/krishnarajdev/MongoDB-Connector/assets/39770908/c1993f49-a1c5-4b7c-ab77-517092f7d19e)
