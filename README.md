@@ -2,7 +2,9 @@
 MongoDB Connector Module 
 
 
-The MongoDB Connector in Mendix allows Mendix applications to interact with MongoDB databases by providing a seamless integration between the two technologies. The connector provides create, read, and delete (CRD) functionalities, allowing developers to easily store, retrieve, and remove data from MongoDB databases directly from their Mendix applications
+This module facilitates the connection with MongoDB databases and collections. With the connector, developers can effortlessly perform CRUD operations, including create, read, update, and delete, enabling seamless storage, retrieval, modification, and removal of data from MongoDB databases within their Mendix applications.
+
+To effectively test your CRUD operations using Microflows, utilize the Example folder provided. It serves as a resource for conducting unit tests and ensuring the smooth functioning of your data manipulation processes.
 
 **Dependencies**
 
